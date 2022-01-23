@@ -9,3 +9,4 @@ could be of good quality.
 requirements and mitigate risks so that stakeholders could make better-informed decisions.
 It is the process of executing a program or application with the intent of finding software bugs.
 Testing starts before code. It starts when the specifications are written.First design the test cases. Then, perform the testing. It will save the time and money. Bugs originate when test cases are executed. Tests are performed using automated tools.
+ <h1> Error</h1>
