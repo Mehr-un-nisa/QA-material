@@ -16,4 +16,4 @@ Testing starts before code. It starts when the specifications are written.First 
  <p><li>Manual Testing</li>
 <li>Automation Testing</li></p>
  
- <h3>Difference between Error, Bug and Anamoly</h3>
+ <h4>Difference between Error, Bug and Anamoly</h4>
