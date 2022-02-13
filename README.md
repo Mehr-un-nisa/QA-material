@@ -17,3 +17,9 @@ Testing starts before code. It starts when the specifications are written.First 
 <li>Automation Testing</li></p>
  
  <h4>Difference between Error, Bug and Failure</h4>
+ <h4>Levels of testing</h4>
+ <p><li>Unit testing</li>
+ <li>Integration testing</li>
+ <li>System testing testing</li>
+ <li>User acceptance testing testing</li>
+</p>
