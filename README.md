@@ -24,3 +24,17 @@ Testing starts before code. It starts when the specifications are written.First 
  <li>User acceptance testing testing</li>
  <h6>Unit testing</h6>
 </p>
+<h4>System testing</h4>
+ <p><li>GUI testing</li>
+ <li>Functional testing</li>
+ <li>Non-functional testing</li>
+ <li>Usability testing</li>
+ </p>
+ <h4>Functional testing</h4>
+ <p><li>Object properties testing</li>
+ <li>Database testing</li>
+ <li>Error handling testing</li>
+ <li>Calculation/ manupulation testing</li>
+ <li>link testing</li>
+ <li>Cookies / Session testing testing</li>
+ </p>
