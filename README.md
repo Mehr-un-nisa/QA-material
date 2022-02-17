@@ -37,4 +37,13 @@ Testing starts before code. It starts when the specifications are written.First 
  <li>Calculation/ manupulation testing</li>
  <li>link testing</li>
  <li>Cookies / Session testing testing</li>
+ 
+  <h4>Non-functional testing</h4>
+ <p><li>Load testing</li>
+ <li>Stress testing</li>
+ <li>Security testing</li>
+ <li>Recovery testing</li>
+ <li>Installation testing</li>
+ <li>Sanity/ Garbage testing</li>
+ <li>Compatibility testing</li>
  </p>
