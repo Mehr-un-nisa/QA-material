@@ -47,3 +47,12 @@ Testing starts before code. It starts when the specifications are written.First 
  <li>Sanity/ Garbage testing</li>
  <li>Compatibility testing</li>
  </p>
+ <h4>Smoke and Sanity testing</h4>
+
+ </p>
+ 
+ 
+ 
+ 
+ 
+ 
