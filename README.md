@@ -44,7 +44,7 @@ Testing starts before code. It starts when the specifications are written.First 
  <li>Security testing</li>
  <li>Recovery testing</li>
  <li>Installation testing</li>
- <li>Sanity/ Garbage testing</li>
+ <li>Sanity / Garbage testing</li>
  <li>Compatibility testing</li>
  </p>
  <h4>Smoke and Sanity testing</h4>
