@@ -48,7 +48,7 @@ Testing starts before code. It starts when the specifications are written.First 
  <li>Compatibility testing</li>
  </p>
  <h4>Smoke and Sanity testing</h4>
-
+<h4>Alpha and beta testing</h4>
  </p>
  
  
