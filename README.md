@@ -25,7 +25,7 @@ Testing starts before code. It starts when the specifications are written.First 
  <h6>Unit testing</h6>
 </p>
 <h4>System testing</h4>
- <p><li>GUI testing</li>
+ <p><li>Grapic User Interface testing</li>
  <li>Functional testing</li>
  <li>Non-functional testing</li>
  <li>Usability testing</li>
