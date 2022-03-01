@@ -21,7 +21,7 @@ Testing starts before code. It starts when the specifications are written.First 
  <p><li>Unit testing</li>
  <li>Integration testing</li>
  <li>System testing testing</li>
- <li>User acceptance testing testing</li>
+ <li>User acceptance testing testing -UAT</li>
  <h6>Unit testing</h6>
 </p>
 <h4>System testing</h4>
