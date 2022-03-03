@@ -52,6 +52,7 @@ Testing starts before code. It starts when the specifications are written.First 
 <h4>Alpha and beta testing</h4>
 <p> Alpha testing is perfomred by devloper and tester.
 <h4>Regression and re-testing </h4>
+<h4>Bug life cycle </h4>
  </p>
  
  
