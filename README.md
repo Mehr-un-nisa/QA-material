@@ -54,6 +54,7 @@ Testing starts before code. It starts when the specifications are written.First 
 <h4>Regression and re-testing </h4>
 <h4>Bug Life Cycle </h4>
 <li>Assigned </li>
+<li>Open </li>
 
  </p>
  
