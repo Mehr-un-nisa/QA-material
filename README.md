@@ -41,7 +41,7 @@ Testing starts before code. It starts when the specifications are written.First 
   <h4>Non-functional testing</h4>
  <p><li>Load testing</li>
  <li>Stress testing</li>
- <p> Example  - Sudden Sale in shopping sites</p>
+ <p> Example - Sudden Sale in shopping sites</p>
  <li>Security testing</li>
  <li>Recovery testing</li>
  <li>Installation testing</li>
