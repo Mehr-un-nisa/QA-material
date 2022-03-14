@@ -56,7 +56,7 @@ Testing starts before code. It starts when the specifications are written.First 
 <li>Assigned </li>
 <li>Open </li>
 <li>Rejected </li>
-<liReopen </li>
+<li> Reopen </li>
  </p>
  
  
