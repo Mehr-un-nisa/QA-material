@@ -51,13 +51,15 @@ Testing starts before code. It starts when the specifications are written.First 
  <li>Compatibility testing</li>
  </p>
  <h4>Smoke and Sanity testing</h4>
-<h4>Alpha and beta testing</h4>
+<h4>User acceptance testing</h4>
+<li>Alpha testing</li>
+ <li>Beta testing testing</li>
 <p> Alpha testing is perfomred by devloper and tester.
 <h4>Regression and re-testing </h4>
 <h4>BUG LIFE CYCLE </h4>
 <li>Assigned </li>
 <li> Open </li>
-<li>Rejected </li>
+<li> Rejected </li>
 <li> Reopen </li>
 <li> Close </li>
  </p>
