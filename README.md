@@ -18,14 +18,11 @@ Testing starts before code. It starts when the specifications are written.First 
  
  <h4>Difference between Error, Bug and Failure</h4>
  <h4>Levels of testing</h4>
- <p><li>Unit testing</li>
+ <p><li> Unit testing</li>
  <li>Integration testing</li>
- <li>System testing testing</li>
+ <li>System testing</li>
  <li>User acceptance testing testing -UAT</li>
  <li>Regression testing</li>
- <li>Alpha testing</li>
- <li>Beta testing</li>
- <h6>Unit testing</h6>
 </p>
 <h4>System testing</h4>
  <p><li>Grapic User Interface testing</li>
