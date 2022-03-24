@@ -12,7 +12,7 @@ Testing starts before code. It starts when the specifications are written.First 
  <h3>Testing types?</h3>
  <p><li>Manual Testing</li>
 <li>Automation Testing</li></p>
- <h3>Difference between Proejct and Product? </h3>
+ <h3>Difference between Proejct and Product</h3>
  <p><li>Manual Testing</li>
 <li>Automation Testing</li></p>
  
@@ -49,7 +49,7 @@ Testing starts before code. It starts when the specifications are written.First 
  <li>Compatibility testing</li>
  </p>
  <h4>Smoke and Sanity testing</h4>
-<h4>User acceptance testing</h4>
+<h4>User acceptance testing -UAT</h4>
 <li>Alpha testing</li>
  <li>Beta testing testing</li>
 <p> Alpha testing is perfomred by devloper and tester.
