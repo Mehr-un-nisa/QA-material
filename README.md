@@ -55,6 +55,7 @@ Testing starts before code. It starts when the specifications are written.First 
 <p> Alpha testing is performed by devloper and tester.
 <h4>Regression and re-testing </h4>
 <h4>BUG/DEFECT LIFE CYCLE </h4>
+<li> New </li>
 <li>Assigned </li>
 <li> Open </li>
 <li> Rejected </li>
