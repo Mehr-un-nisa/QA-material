@@ -57,6 +57,7 @@ Testing starts before code. It starts when the specifications are written.First 
 <h4>BUG/DEFECT LIFE CYCLE </h4>
 <li> New </li>
 <li>Assigned </li>
+<li>Duplicated </li>
 <li> Open </li>
 <li> Rejected </li>
 <li> Reopen </li>
