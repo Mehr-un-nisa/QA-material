@@ -1,5 +1,5 @@
 # QA-material
-Guidance about Software Quality Assurance - BASICS
+Software Quality Assurance - BASICS
 <h2>Software testing </h2>
 <h3> What is quality?</h3>
 <p> Anything that creates comfortability for the end-user could be termed quality.
