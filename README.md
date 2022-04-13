@@ -58,6 +58,8 @@ Testing starts before code. It starts when the specifications are written.First 
 <li> New </li>
 <li>Assigned </li>
 <li>Duplicated </li>
+<li>Reejected</li>
+<li>Deferred </li>
 <li> Open </li>
 <li> Rejected </li>
 <li> Reopen </li>
