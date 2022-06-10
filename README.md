@@ -62,7 +62,7 @@ Testing starts before code. It starts when the specifications are written.First 
 <li>Deferred </li>
 <li> Open </li>
 <li> Rejected </li>
-<li> Reopen </li>
+<li> ReOpen </li>
 <li> Close </li>
  </p>
  
