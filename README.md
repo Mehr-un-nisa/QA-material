@@ -12,11 +12,6 @@ Testing starts before code. It starts when the specifications are written.First 
  <h3>Testing types?</h3>
  <p><li>Manual Testing</li>
 <li>Automation Testing</li></p>
- <h3>Difference between Proejct and Product</h3>
- <p><li>Manual Testing</li>
-<li>Automation Testing</li></p>
- 
- <h4>Difference between Error, Bug and Failure</h4>
  <h4>Levels of testing</h4>
  <p><li> Unit testing</li>
  <li>Integration testing</li>
