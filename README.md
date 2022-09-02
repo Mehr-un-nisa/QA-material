@@ -45,7 +45,7 @@ Software Quality Assurance - BASICS
 <li> New </li>
 <li>Assigned </li>
 <li>Duplicated </li>
-<li>Reejected</li>
+<li>Rejected</li>
 <li>Deferred </li>
 <li> Open </li>
 <li> Rejected </li>
