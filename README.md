@@ -67,6 +67,10 @@ Software Quality Assurance - BASICS
  <li> Jira </li>
  <li> trello</li> 
  <p> Excel sheets are an out-dated approach used for bug reporting. And it is not recommended as it is not a good approach. In excel, tester mentions test case id, test case, description, actual result, expected result and test case status. And, it is a tedious task and is not a good approach </p> 
+ <br> 
+![image](https://user-images.githubusercontent.com/55224607/210212628-c3ad85fc-a1e3-40a1-916b-69af0f7e70b0.png)
+
+
  
  
  
