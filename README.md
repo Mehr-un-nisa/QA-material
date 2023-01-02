@@ -59,7 +59,8 @@ Software Quality Assurance - BASICS
  
  <h4>Structural database testing</h4>
  <p> Validation of database servers is an important consideration in this kind of testing </p> 
- 
+ <h4>Schema testing</h4>
+ <p> Validation of mapping of backend and frontend. The mapping of backend and frontend for tables, columns and views etc should be similar.</p> 
  
  
  
