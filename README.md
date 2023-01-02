@@ -1,4 +1,4 @@
-# QA-material
+# Quality Assurance material
 Software Quality Assurance - BASICS
 <h2>Software testing </h2>
 <h3> What is quality?</h3>
@@ -51,7 +51,15 @@ Software Quality Assurance - BASICS
 <li> Rejected </li>
 <li> ReOpen </li>
 <li> Close </li>
+<br>
+
+![image](https://user-images.githubusercontent.com/55224607/210202913-066d078d-6f71-4f75-9f50-4b05a542d3d7.png)
+<br>
  </p>
+ 
+ <h4>Structural database testing</h4>
+ <p> Validation of database servers is an important consideration in this kind of testing </p> 
+ 
  
  
  
