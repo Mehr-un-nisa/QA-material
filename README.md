@@ -61,6 +61,12 @@ Software Quality Assurance - BASICS
  <p> Validation of database servers is an important consideration in this kind of testing </p> 
  <h4>Schema testing</h4>
  <p> Validation of mapping of backend and frontend. The mapping of backend and frontend for tables, columns and views etc should be similar.</p> 
+ <h4> Bug reporting </h4> 
+ <p> An unexpected behaviour of application is considered as bug, like successful login of an application for invalid credentails is considered as bug and it is reported to developer by tester. There are many tools used for bug reporting and few are mentioned below </p> 
+ <li> Excel shheets </li>
+ <li> Jira </li>
+ <li> trello</li> 
+ <p> Excel sheets are an out-dated approach used for bug reporting. And it is not recommended as it is not a good approach. In excel, tester mentions test case id, test case, description, actual result, expected result and test case status. And, it is a tedious task and is not a good approach </p> 
  
  
  
