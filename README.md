@@ -41,6 +41,8 @@ Software Quality Assurance - BASICS
 <li>Alpha testing</li>
  <li>Beta testing testing</li>
 <p> Alpha testing is performed by devloper and tester.
+<h4>Smoke testing</h4>
+<p> It is performed to check that major functionalities of software are working fine and there are no showstoppers </p>
 <h4>BUG/DEFECT LIFE CYCLE </h4>
 <li> New </li>
 <li>Assigned </li>
